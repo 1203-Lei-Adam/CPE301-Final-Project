@@ -1,2 +1,3 @@
 # CPE301-Final-Project
-This is the github repository for the CPE301 Final Project of Spring 2024
+
+This project was completed by: Adam Lei, Sumiran Marsani, and Nikhil Anil. The workload was split and everyone contribuited equally. 
